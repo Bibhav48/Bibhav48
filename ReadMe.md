@@ -12,6 +12,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bibhav48&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## Stackoverflow
+[![Bibhav48 StackOverflow](https://stackoverflow-readme-profile.johannchopin.fr/profile/16321225?theme=dark&website=false&location=true)](https://stackoverflow.com/users/16321225/bibhav)
+
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=bibhav48)](https://gtce.itsvg.in)
 
